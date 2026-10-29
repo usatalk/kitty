@@ -50,10 +50,10 @@ if (ua.includes("Locket")) {
             tag: "LOCKET GOLD",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: " bạn đang dùng cf quay video 25s ",
+            title: "bạn đang dùng cf quay video 25s",
             feature_set: [
                 {
-                    title: "ins : engong___",
+                    title: "ins:engong__",
                     body: "khung độc quyền kitty",
                     imageURL: " "
                 
