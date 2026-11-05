@@ -50,16 +50,16 @@ if (ua.includes("Locket")) {
             tag: "LOCKET GOLD",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: "bạn đang dùng cf quay video 25s",
+            title: "bạn đang dùng cf quay video 45s",
             feature_set: [
                 {
-                    title: "ins:engong__",
+                    title: "done",
                     body: "khung độc quyền kitty",
                     imageURL: " "
                 
                 }
             ],
-            primary_button_title: "done",
+            primary_button_title: "ins:engong__",
             campaign: "locket_gold_welcome_v3",
             start_at: "2020-01-01T00:00:00",
             end_at: "2099-12-31T23:59:59",
@@ -96,7 +96,7 @@ if (ua.includes("Locket")) {
     // ============================================================
     // 3. CAMERA, VIDEO, FILTERS & UPLOAD QUALITY
     // ============================================================
-    var MY_VIDEO_DURATION = 25.0;
+    var MY_VIDEO_DURATION = 45.0;
     
     var cameraConfig = {
         gold_max_duration: MY_VIDEO_DURATION,
